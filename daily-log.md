@@ -7,4 +7,8 @@ Day 1:
 
 Day 2:
 
-* Solved Second Largest Element Problem
+* Solved Second Largest Element
+
+Day 3:
+
+* Learned Binary Search

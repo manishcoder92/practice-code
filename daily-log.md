@@ -12,3 +12,7 @@ Day 2:
 Day 3:
 
 * Learned Binary Search
+
+Day 4:
+
+* Compared Linear Search and Binary Search
